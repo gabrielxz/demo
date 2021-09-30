@@ -2,17 +2,17 @@
     "tokens": [
         {
             "id": 0,
-            "description": "The word 'photosynthesis'",
+            "description": "Photosynthesis",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://en.wikipedia.org/wiki/Photosynthesis#/media/File:Photosynthesis_en.svg",
+            "image": "https://images.twinkl.co.uk/tr/raw/upload/u/ux/photosynthesis-parents-wiki_ver_1.jpg",
             "name": "Photosynthesis"
         },
         {
             "id": 1,
-            "description": "My NFT",
+            "description": "Fuck",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "My NFT 1"
+            "image": "https://ih1.redbubble.net/image.1738907626.2018/aps,504x498,small,transparent-pad,600x600,f8f8f8.jpg",
+            "name": "Fuck"
         },
         {
             "id": 2,
