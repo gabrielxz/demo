@@ -2,10 +2,10 @@
     "tokens": [
         {
             "id": 0,
-            "description": "My NFT",
+            "description": "The word 'photosynthesis'",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "My NFT 0"
+            "image": "https://en.wikipedia.org/wiki/Photosynthesis#/media/File:Photosynthesis_en.svg",
+            "name": "Photosynthesis"
         },
         {
             "id": 1,
